@@ -17,4 +17,4 @@ const Banner = () => {
     );
 };
 
-export default ;
+export default Banner;
