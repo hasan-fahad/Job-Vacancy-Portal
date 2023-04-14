@@ -21,7 +21,7 @@ const SingleFeaturedJobs = ({featuredJob}) => {
                         <p>$Salary:{salary}</p>
                     </div>
                     <div className="card-actions justify-left">
-                    <Link to={`/featuredJob/${id}`} className="btn btn-primary">View Details</Link>
+                    <Link to={`/featuredJob/${id}`} className="btn bg-slate-400">View Details</Link>
                     </div>
                 </div>
             </div>
