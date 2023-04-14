@@ -29,4 +29,4 @@ const SingleFeaturedJobs = ({featuredJob}) => {
     );
 };
 
-export default FeaturedJobs;
+export default SingleFeaturedJobs;
