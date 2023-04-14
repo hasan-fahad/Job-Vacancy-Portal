@@ -25,7 +25,7 @@ const Navbar = () => {
                     </li>
                 </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-4xl">daisyUI</a>
+                <a className="btn btn-ghost normal-case text-4xl">JOB VACANCY PORTAL</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
